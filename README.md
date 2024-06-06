@@ -1,2 +1,2 @@
-# Python-aplicado-a-Meteorologia
-Python for Meteorology
+# Python-aplicado-a-Climatologia
+Python for Climatologia
